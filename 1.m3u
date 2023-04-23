@@ -1,0 +1,203 @@
+#EXTM3U
+#EXTINF:-1 group-title="Эфирные",1-й Республиканский
+http://tv.bitnet.dn.ua:8800/1-j_Respublikanskij
+#EXTINF:-1 group-title="Познавательные",24 Техно
+http://tv.bitnet.dn.ua:8800/24_Texno
+#EXTINF:-1 group-title="Развлекательные",8 канал
+http://tv.bitnet.dn.ua:8800/8_kanal
+#EXTINF:-1 group-title="Познавательные",Animal Planet HD
+http://tv.bitnet.dn.ua:8800/Animal_Planet_HD
+#EXTINF:-1 group-title="Детские",Cartoon Network
+http://tv.bitnet.dn.ua:8800/Cartoon_Network
+#EXTINF:-1 group-title="Познавательные",Discovery Channel Russia
+http://tv.bitnet.dn.ua:8800/Discovery_Channel
+#EXTINF:-1 group-title="Познавательные",Discovery Science
+http://tv.bitnet.dn.ua:8800/Discovery_Science
+#EXTINF:-1 group-title="Детские",Disney Channel
+http://tv.bitnet.dn.ua:8800/Disney
+#EXTINF:-1 group-title="Спорт",Eurosport 1 HD
+http://tv.bitnet.dn.ua:8800/Eurosport_1
+#EXTINF:-1 group-title="Спорт",Extreme Sports
+http://tv.bitnet.dn.ua:8800/Extreme_Sports
+#EXTINF:-1 group-title="Эфирные",HTB
+http://tv.bitnet.dn.ua:8800/NTV
+#EXTINF:-1 group-title="Эфирные",HTB HD
+http://tv.bitnet.dn.ua:8800/NTV_HD
+#EXTINF:-1 group-title="Спорт",M-1 Global
+http://tv.bitnet.dn.ua:8800/M-1_Global
+#EXTINF:-1 group-title="Музыка",MTV Hits
+http://tv.bitnet.dn.ua:8800/MTV_Hits
+#EXTINF:-1 group-title="Музыка",MTV Россия
+http://tv.bitnet.dn.ua:8800/MTV_Russia
+#EXTINF:-1 group-title="Музыка",MUSIC BOX TV
+http://tv.bitnet.dn.ua:8800/MUSIC_BOX_TV
+#EXTINF:-1 group-title="Познавательные",National Geographic HD
+http://tv.bitnet.dn.ua:8800/National_Geographic_HD
+#EXTINF:-1 group-title="Региональные",NewsFrontTV
+http://tv.bitnet.dn.ua:8800/News-Front
+#EXTINF:-1 group-title="Детские",Nickelodeon HD
+http://tv.bitnet.dn.ua:8800/Nickelodeon_HD
+#EXTINF:-1 group-title="Музыка",Russian Music Box
+http://tv.bitnet.dn.ua:8800/Russian_MusicBox
+#EXTINF:-1 group-title="Разное",Shop 24
+http://tv.bitnet.dn.ua:8800/Shopping_TV
+#EXTINF:-1 group-title="Развлекательные",THT HD
+http://tv.bitnet.dn.ua:8800/THT_HD
+#EXTINF:-1 group-title="Кино",TV1000 Action
+http://tv.bitnet.dn.ua:8800/TV1000_Action
+#EXTINF:-1 group-title="Кино",TV1000 Comedy
+http://tv.bitnet.dn.ua:8800/TV1000_Comedy
+#EXTINF:-1 group-title="Кино",TV1000 East
+http://tv.bitnet.dn.ua:8800/TV1000_East
+#EXTINF:-1 group-title="Кино",TV1000 Megahit HD
+http://tv.bitnet.dn.ua:8800/TV1000_Megahit
+#EXTINF:-1 group-title="Кино",TV1000 Premium HD
+http://tv.bitnet.dn.ua:8800/TV1000_Premium
+#EXTINF:-1 group-title="Кино",TV1000 Русское Кино
+http://tv.bitnet.dn.ua:8800/TV1000_Russkoe_Kino
+#EXTINF:-1 group-title="Спорт",Авто 24
+http://tv.bitnet.dn.ua:8800/Avto24
+#EXTINF:-1 group-title="Разное",Ваш Успех
+http://tv.bitnet.dn.ua:8800/Vash_Uspex
+#EXTINF:-1 group-title="Познавательные",Глазами туриста
+http://tv.bitnet.dn.ua:8800/Glazami_turista
+#EXTINF:-1 group-title="Спорт",Диалоги о Рыбалке
+http://tv.bitnet.dn.ua:8800/Dialogi_o_Rybalke
+#EXTINF:-1 group-title="Познавательные",Дикая охота HD
+http://tv.bitnet.dn.ua:8800/Dikaya_oxota_HD
+#EXTINF:-1 group-title="Познавательные",Дикая рыбалка HD
+http://tv.bitnet.dn.ua:8800/Dikaya_rybalka_HD
+#EXTINF:-1 group-title="Спорт",Дикий
+http://tv.bitnet.dn.ua:8800/Dikij
+#EXTINF:-1 group-title="Познавательные",Доктор
+http://tv.bitnet.dn.ua:8800/Doktor
+#EXTINF:-1 group-title="Кино",Дом Кино
+http://tv.bitnet.dn.ua:8800/Dom_Kino
+#EXTINF:-1 group-title="Кино",Дом Кино Премиум HD
+http://tv.bitnet.dn.ua:8800/Dom_Kino_Premium_HD
+#EXTINF:-1 group-title="Кино",Домашний
+http://tv.bitnet.dn.ua:8800/Domashnij
+#EXTINF:-1 group-title="Познавательные",Живая планета
+http://tv.bitnet.dn.ua:8800/ZHivaya_planeta
+#EXTINF:-1 group-title="Познавательные",Живая природа
+http://tv.bitnet.dn.ua:8800/ZHivaya_priroda
+#EXTINF:-1 group-title="Эфирные",Звезда
+http://tv.bitnet.dn.ua:8800/Zvezda
+#EXTINF:-1 group-title="Детские",Карусель
+http://tv.bitnet.dn.ua:8800/Karusel
+#EXTINF:-1 group-title="Кино",Кино HD
+http://tv.bitnet.dn.ua:8800/Kino_HD
+#EXTINF:-1 group-title="Кино",Кинокомедия
+http://tv.bitnet.dn.ua:8800/Kinokomediya
+#EXTINF:-1 group-title="Кино",Киномикс
+http://tv.bitnet.dn.ua:8800/Kinomiks
+#EXTINF:-1 group-title="Кино",Кинопремьера
+http://tv.bitnet.dn.ua:8800/Kinopremera
+#EXTINF:-1 group-title="Кино",Киносемья
+http://tv.bitnet.dn.ua:8800/Kinosemya
+#EXTINF:-1 group-title="Кино",Кинохит
+http://tv.bitnet.dn.ua:8800/Kinoxit
+#EXTINF:-1 group-title="Кино",Любимое кино
+http://tv.bitnet.dn.ua:8800/Lyubimoe_kino
+#EXTINF:-1 group-title="Детские",Малыш
+http://tv.bitnet.dn.ua:8800/Malysh
+#EXTINF:-1 group-title="Спорт",Матч Арена
+http://tv.bitnet.dn.ua:8800/Match!_Arena
+#EXTINF:-1 group-title="Спорт",МАТЧ АРЕНА HD
+http://tv.bitnet.dn.ua:8800/MATCH!_ARENA_HD
+#EXTINF:-1 group-title="Спорт",Матч Боец
+http://tv.bitnet.dn.ua:8800/Match!_Boec
+#EXTINF:-1 group-title="Спорт",Матч ТВ
+http://tv.bitnet.dn.ua:8800/Match_TV
+#EXTINF:-1 group-title="Спорт",Матч Футбол 1
+http://tv.bitnet.dn.ua:8800/Match!_Futbol_1
+#EXTINF:-1 group-title="Спорт",МАТЧ ФУТБОЛ 1 HD
+http://tv.bitnet.dn.ua:8800/MATCH!_FUTBOL_1_HD
+#EXTINF:-1 group-title="Спорт",Матч Футбол 2
+http://tv.bitnet.dn.ua:8800/Match!_Futbol_2
+#EXTINF:-1 group-title="Спорт",МАТЧ ФУТБОЛ 2 HD
+http://tv.bitnet.dn.ua:8800/MATCH!_FUTBOL_2_HD
+#EXTINF:-1 group-title="Эфирные",Мир
+http://tv.bitnet.dn.ua:8800/Mir
+#EXTINF:-1 group-title="Эфирные",Мир 24
+http://tv.bitnet.dn.ua:8800/Mir_24
+#EXTINF:-1 group-title="Эфирные",Москва-24
+http://tv.bitnet.dn.ua:8800/Moskva_24
+#EXTINF:-1 group-title="Развлекательные",Мужское кино
+http://tv.bitnet.dn.ua:8800/Muzhskoe_kino
+#EXTINF:-1 group-title="Кино",Мужское кино HD
+http://tv.bitnet.dn.ua:8800/Muzhskoe_kino_HD
+#EXTINF:-1 group-title="Кино",Мужской
+http://tv.bitnet.dn.ua:8800/Muzhskoj
+#EXTINF:-1 group-title="Музыка",МУЗ ТВ
+http://tv.bitnet.dn.ua:8800/Muz_TV
+#EXTINF:-1 group-title="Познавательные",Наука 2.0
+http://tv.bitnet.dn.ua:8800/Nauka_2.0
+#EXTINF:-1 group-title="Кино",Наше Новое Кино
+http://tv.bitnet.dn.ua:8800/NASHE_NOVOE_KINO
+#EXTINF:-1 group-title="Эфирные",Новороссия ТВ
+http://tv.bitnet.dn.ua:8800/Novorossiya_TV
+#EXTINF:-1 group-title="Развлекательные",НТВ-Право
+http://tv.bitnet.dn.ua:8800/NTV-Pravo
+#EXTINF:-1 group-title="Эфирные",Оплот ТВ
+http://tv.bitnet.dn.ua:8800/Oplot_TV(SD)
+#EXTINF:-1 group-title="Эфирные",Оплот ТВ 2
+http://tv.bitnet.dn.ua:8800/Oplot_2
+#EXTINF:-1 group-title="Эфирные",Оплот ТВ HD
+http://tv.bitnet.dn.ua:8800/Oplot_TV_HD
+#EXTINF:-1 group-title="Эфирные",ОТР
+http://tv.bitnet.dn.ua:8800/OTR
+#EXTINF:-1 group-title="Познавательные",Охота и рыбалка
+http://tv.bitnet.dn.ua:8800/Oxota_i_rybalka
+#EXTINF:-1 group-title="Эфирные",Первый канал
+http://tv.bitnet.dn.ua:8800/Pervyj_kanal
+#EXTINF:-1 group-title="Эфирные",Первый канал HD
+http://tv.bitnet.dn.ua:8800/Pervyj_kanal_HD
+#EXTINF:-1 group-title="Эфирные",Первый Щелковский
+http://tv.bitnet.dn.ua:8800/Pervyj_SHHelkovskij
+#EXTINF:-1 group-title="Кино",Победа HD
+http://tv.bitnet.dn.ua:8800/POBEDA
+#EXTINF:-1 group-title="Эфирные",Пятница
+http://tv.bitnet.dn.ua:8800/Pyatnica
+#EXTINF:-1 group-title="Эфирные",Пятый канал
+http://tv.bitnet.dn.ua:8800/Pyatyj_kanal
+#EXTINF:-1 group-title="Детские",Радость Моя
+http://tv.bitnet.dn.ua:8800/Radost_moya
+#EXTINF:-1 group-title="Новости",РБК
+http://tv.bitnet.dn.ua:8800/RBK
+#EXTINF:-1 group-title="Эфирные",Рен ТВ
+http://tv.bitnet.dn.ua:8800/Ren-TV
+#EXTINF:-1 group-title="Кино",Родное кино
+http://tv.bitnet.dn.ua:8800/Rodnoe_kino
+#EXTINF:-1 group-title="Эфирные",Россия 1
+http://tv.bitnet.dn.ua:8800/Rossiya_1
+#EXTINF:-1 group-title="Эфирные",Россия 24
+http://tv.bitnet.dn.ua:8800/Rossiya_24
+#EXTINF:-1 group-title="Эфирные",Россия HD
+http://tv.bitnet.dn.ua:8800/Rossiya_HD
+#EXTINF:-1 group-title="Познавательные",Россия Культура
+http://tv.bitnet.dn.ua:8800/Rossiya_Kultura
+#EXTINF:-1 group-title="Кино",Русская Комедия
+http://tv.bitnet.dn.ua:8800/Russkaya_Komediya
+#EXTINF:-1 group-title="Кино",Русский бестселлер
+http://tv.bitnet.dn.ua:8800/Russkij_bestseller
+#EXTINF:-1 group-title="Кино",Русский детектив
+http://tv.bitnet.dn.ua:8800/Russkij_detektiv
+#EXTINF:-1 group-title="Кино",Русский Роман
+http://tv.bitnet.dn.ua:8800/Russkij_Roman
+#EXTINF:-1 group-title="Разное",Спас_ТВ
+http://tv.bitnet.dn.ua:8800/Spas
+#EXTINF:-1 group-title="Развлекательные",СТС
+http://tv.bitnet.dn.ua:8800/STS
+#EXTINF:-1 group-title="Кино",ТВ-3
+http://tv.bitnet.dn.ua:8800/TV3
+#EXTINF:-1 group-title="Эфирные",ТВЦ
+http://tv.bitnet.dn.ua:8800/TV_centr
+#EXTINF:-1 group-title="Развлекательные",ТНТ
+http://tv.bitnet.dn.ua:8800/TNT
+#EXTINF:-1 group-title="Спорт",Точка отрыва
+http://tv.bitnet.dn.ua:8800/Tochka_otryva
+#EXTINF:-1 group-title="Развлекательные",Ю
+http://tv.bitnet.dn.ua:8800/YU
+#EXTINF:-1 group-title="Эфирные",Юнион
+http://tv.bitnet.dn.ua:8800/YUnion
